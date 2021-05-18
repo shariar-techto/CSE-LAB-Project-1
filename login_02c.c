@@ -262,8 +262,8 @@ void menu(){
         printf("\t\t      4. About\n");
         printf("\t\t      5. Exit\n");
 
-        printf("%d\n", index2);
-        printf("%s\n", p[index2].name);
+        //printf("%d\n", index2);
+        //printf("%s\n", p[index2].name);
 
         printf("\n");
         printf("Please Select an Option: ");
